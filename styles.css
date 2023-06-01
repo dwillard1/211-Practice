@@ -1,0 +1,27 @@
+/** This is adding style to the different options in the first navigation bar **/
+.item1 {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background: orange;
+}
+
+/** This is adding style to the different options in the second navigation bar **/
+.item2 {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background: violet;
+
+}
+
+.navigationbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+.navigationbar2 {
+    display: flex;
+    justify-content:center;
+}
